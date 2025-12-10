@@ -69,10 +69,5 @@ To run or compile this project, you need:
 * **Obstacles:** Trees `(^)` and Buildings `----`
 * **Bonus:** `$$$$` (Collect for extra points)
 
-## 📁 File Structure
-* `main.asm`: The core source code.
-* `highscores.txt`: Stores the top 10 player data.
-* `savegame.txt`: Stores the serialized data of a saved session.
-
 ## 👥 Credits
 Developed by *Imtishal Haq* for the COAL Course Project. Credits to Course Instructor *"Sir Shahbaz Hassan"* and Lab Instructor *"Sir Umair Khalid"*
