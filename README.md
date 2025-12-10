@@ -75,4 +75,4 @@ To run or compile this project, you need:
 * `savegame.txt`: Stores the serialized data of a saved session.
 
 ## 👥 Credits
-Developed by [Your Name] for the COAL Course Project.
+Developed by *Imtishal Haq* for the COAL Course Project. Credits to Course Instructor *"Sir Shahbaz Hassan"* and Lab Instructor *"Sir Umair Khalid"*
